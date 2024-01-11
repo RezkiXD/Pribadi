@@ -1,5 +1,3 @@
-CARA INSTALL SCRIPT:
-download aplikasi termux android di sini!, lalu buka aplikasinya ketikan perintah dibawah ini.
 
 pkg update && pkg upgrade
 pkg install python
@@ -10,13 +8,8 @@ pip install bs4
 pip install requests
 pip install rich
 pip install mechanize
-git clone https://github.com/DensXyz/denszmbf-2.2
-oke sekarang script sudah terinstall
-
-CARA MENJALANKAN SCRIPT:
-sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
-
-cd denszmbf-2.2
+git clone https://github.com/RezkiXD/Pribadi
+cd 
 git pull
 python zmbf-2.2.py
 informasi:
